@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey there
 
-<!--
-**oliver-nx/oliver-nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and product operator working across AI products, developer platforms,
+integrations and 0→1 execution.
 
-Here are some ideas to get you started:
+I spend most of my time turning ambiguous product and operating problems into
+workflows, specifications, prototypes and systems that can actually be shipped.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- AI-native products and agentic workflows
+- Developer platforms, APIs and integrations
+- Conversational AI and automation
+- Cybersecurity and fraud systems
+- SaaS product strategy and 0→1 execution
+
+## How I build
+
+My work typically combines APIs, authentication, databases, cloud infrastructure,
+model providers, coding agents and lightweight automation.
+
+I use AI and coding agents throughout product discovery, specification,
+edge-case analysis and prototyping, while keeping product and commercial
+judgment human-owned.
+
+## Current interests
+
+Developer ecosystems · AI agents · platform products · marketplaces ·
+developer experience · applied AI
+
+Most of my current product repositories are private commercial projects.
+
+[LinkedIn](https://www.linkedin.com/in/luvchanan/)
